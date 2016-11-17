@@ -1,0 +1,3 @@
+rootProject.name = 'RNAndroidOpacityBug'
+
+include ':app'
